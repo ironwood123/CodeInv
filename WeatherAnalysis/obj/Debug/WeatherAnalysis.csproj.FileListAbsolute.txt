@@ -1,0 +1,5 @@
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\WeatherAnalysis\bin\Debug\WeatherAnalysis.exe.config
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\WeatherAnalysis\bin\Debug\WeatherAnalysis.exe
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\WeatherAnalysis\bin\Debug\WeatherAnalysis.pdb
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\WeatherAnalysis\obj\Debug\WeatherAnalysis.exe
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\WeatherAnalysis\obj\Debug\WeatherAnalysis.pdb

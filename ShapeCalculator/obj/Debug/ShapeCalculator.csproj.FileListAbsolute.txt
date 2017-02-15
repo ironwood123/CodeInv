@@ -1,0 +1,6 @@
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\ShapeCalculator\bin\Debug\ShapeCalculator.exe.config
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\ShapeCalculator\bin\Debug\ShapeCalculator.exe
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\ShapeCalculator\bin\Debug\ShapeCalculator.pdb
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\ShapeCalculator\obj\Debug\ShapeCalculator.csprojResolveAssemblyReference.cache
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\ShapeCalculator\obj\Debug\ShapeCalculator.exe
+c:\users\cindy\documents\visual studio 2015\Projects\SolovisInterview\ShapeCalculator\obj\Debug\ShapeCalculator.pdb

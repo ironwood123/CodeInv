@@ -1,0 +1,11 @@
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\InterestPayment.exe
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\ShapeCalculator.exe
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\WeatherAnalysis.exe
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\InterestPayment.pdb
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\ShapeCalculator.pdb
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\bin\Debug\WeatherAnalysis.pdb
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\cindy\documents\visual studio 2015\Projects\SolovisInterview\UnitTest\obj\Debug\UnitTest.pdb
